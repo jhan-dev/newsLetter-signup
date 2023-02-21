@@ -68,9 +68,3 @@ app.post("/failure", function(req, res){
 app.listen(port, function(){
     console.log(`Server is running on port ${port}.`)
 })
-
-// Revoked API Key for security and learning purposes only
-// 4967481ecaf1fe856bd1e5c1c6d7b5e4-us21
-
-// Audience ID
-// a08e58efef
